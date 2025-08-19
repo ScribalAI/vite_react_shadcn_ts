@@ -1,5 +1,18 @@
 # React + TypeScript + Vite
 
+## Contributing
+
+Thank you for considering contributing to this project! Please follow these steps to contribute:
+
+1. **Fork the repository** and create your branch from `main`.
+2. **Install dependencies** with `npm install` or `bun install`.
+3. **Create a new branch** with a descriptive name.
+4. **Make your changes** and ensure code quality by running lint and tests.
+5. **Commit your changes** and push your branch.
+6. **Open a pull request** with a description of your changes.
+
+Please follow the project's coding standards and write clear, concise commit messages. For major changes, open an issue first to discuss what you would like to change.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
